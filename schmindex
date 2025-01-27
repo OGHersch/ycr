@@ -1,1 +1,181 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style type="text/css">* {cursor: url(https://ani.cursors-4u.net/cursors/cur-12/cur1103.ani), url(https://ani.cursors-4u.net/cursors/cur-12/cur1103.png), auto !important;}</style><a href="https://www.cursors-4u.com/cursor/2014/03/14/rainbow-pinwheel-pointer.html" target="_blank" title="Rainbow Pinwheel Pointer"><img src="https://cur.cursors-4u.net/cursor.png" border="0" alt="Rainbow Pinwheel Pointer" style="position:absolute; top: 0px; right: 0px;" /></a>
+   <style>
+body {
+  background-color: white 
+  background-image: url('link');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style> 
+  <style>
+  .container{
+width: 1000px;
+height: auto;
+max-height: 100%;
+border: 5px solid transparent;
+  border-radius: 8px;
+  padding: 5px;
+float: left;
+background-color: transparent;
+background-clip: padding-box;
+margin: 5px;
+} 
+</style>
+<style>
+  .smallcontainer{
+width: 200px;
+height: auto;
+max-height: 100%;
+float: left;
+background-color: transparent;
+background-clip: padding-box;
+} 
+</style>
+<style>
+  .bigcontainer{
+width: 800px;
+height: auto;
+max-height: 100%;
+float: left;
+background-color: transparent;
+background-clip: padding-box;
+} 
+</style>
+  <style>
+  .sidebar{
+width: 150px;
+height: auto;
+max-height: 100%;
+border: 5px solid black;
+  border-radius: 8px;
+  padding: 5px;
+float: left;
+overflow: auto;
+line-height: 100%;
+background-color: white;
+background-clip: padding-box;
+text-align: center;
+color: black;
+margin: 5px 2.5px 5px 5px;
+font-family: 'OD';
+background-image: url('link');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+} 
+</style>
+<style>
+  .main{
+width: 700px;
+height: auto;
+max-height: 100%;
+border: 5px solid black;
+  border-radius: 8px;
+  padding: 5px;
+line-height: 100%;
+float: left;
+background-color: white;
+text-align: center;
+color: black;
+overflow: auto;
+margin: 5px 5px 5px 2.5px;
+font-family: 'OD';
+background-image: url('link');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+} 
+@font-face {
+  font-family: Name;
+  src: url(link);
+}
+@font-face {
+  font-family: Name;
+  src: url(link);
+  font-weight: bold;
+}
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site Title</title>
+    <div class="container">
+    
+<div class="smallcontainer">
+
+<div class="sidebar">
+  <h3>HEADER</h3>
+  <p><a href="link">Link</a></p>
+<p>Text</p>
+</div>
+
+<div class="sidebar">
+  <p>Text</p>
+</div>
+
+<div class="sidebar">
+   <testarea rows="5"    cols="15" >You can use a box like this to make code visible and copyable! The rows and cols let you change its size. Mess around and find a size you like.</testarea>
+</div>
+
+<div class="sidebar">
+  <img src="https://blinkies.cafe/b/display/0150-alligator.gif"><img>
+  <p>I left a blinkie here so you can see how they are embedded.</p>
+</div>
+
+</div>
+<div class="bigcontainer">
+<div class="main">
+<img src="image" alt= "Placeholder image, describe images with alt text like this. If the link is broken as it is here, the alt text displays instead of the image." width="250" height="300" style="float:left">
+<h2>Header</h2>
+<p>Text goes here. The box will scale with your text and image. Wow!</p>
+</div>
+<div class="main">
+<p>You can have as many of these boxes as you want. They'll be nested inside your "Big Container" div if you keep the code like this, but if you take them out of that div, they'll arrange themselves instead of being constrained by the box. "Container," "Small Container" and "Big Container" divs can all have background colors and borders assigned to them if you want, but in this version of the code, they are transparent. </p>
+<p>To change the colors of various elements, you can replace the "white" and "black" color tags with other color names or with hex codes. To add a background image, replace "link" in the background image code with an actual link. To change your font, upload a font file to Neocities and set it as the src link for the font. You can name the font family whatever you want then. Alternately, you can remove the src link and use the name of a web font (you can look up the names of these).</p>
+<p>I left my custom cursor code in here at the top. In order to get rid of the custom cursor, just delete that section of code. In order to replace it with a different custom cursor, go to Cursors-4U and copy the code for your desired custom cursor, then replace it. Cursor animation doesn't work outside Internet Explorer as far as I can tell, so pick one that looks fine not animated.<p>
+<p>You can make more styles of div if you like - as many as you want! This is good if you want lots of different elements on your page, but it can gum up your code somewhat.</p>
+<p align="left">To make text align left, put in an alignment tag like this. This can also be changed in the div styles, if you want your whole div's text aligned left.</p>
+<div class="sidebar" style="height:200px">
+<p>You can also put smaller divs inside bigger divs like this. This is how I do the character boxes on my characters page - they are all sidebar divs with links and images in them. </p>
+</div>
+<div class="sidebar" style="height:200px">
+<p>If you put in more than one, they'll sit next to each other until they run out of room, at which point they'll start going vertically.</p>
+</div>
+<div class="sidebar" style="height:200px">
+<p>To make them stay the same height, you can add a height code in as seen here. See how some of these have a scroll bar? That's because it reached its max height. If max height is a number, this can happen. If max height is set to "auto," the divs will just stretch with content.</p>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+alert("You can put any warning you want here, or remove the warning box by deleting this section of code. It comes up when you first open the page.");
+</script>
+  </body>
+</html>
 
